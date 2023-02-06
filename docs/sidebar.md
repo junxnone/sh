@@ -1,15 +1,5 @@
-- Features 
-  - Markdown
-  - IncludeContent
-  - Latex
-  - Mermaid
-  - MindMap
-  - Timeline
-  - AutoSidebar
-  - KG
-- Guide  
-  - WriteWiki
-  - AutoSidebar
-- TODO  
-- About  
+- 居住证
+- 户口
+- 买房
+- 教育
 
