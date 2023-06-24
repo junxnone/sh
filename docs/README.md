@@ -1,7 +1,7 @@
 ---
 Title | README
 -- | --
-Updated @ | `2023-06-17T12:54:36Z`
+Updated @ | `2023-06-24T16:07:23Z`
 Edit @ | [here](https://github.com/junxnone/sh/issues/2)
 
 ---
@@ -15,12 +15,12 @@ This is a [ShangHai] Wiki.  <kbd>[Use this Template](https://github.com/junxnone
 
 
 - [Mindmap - Markmap](https://junxnone.github.io/sh/markmap.html?md=https://junxnone.github.io/sh/_sidebar.md)
-- [3D Knowledge Graph](https://junxnone.github.io/sh/kg)
+- [3D Knowledge Graph](https://junxnone.github.io/kg?json=sh/kg.json)
 
 ---
 
 [Index](_sidebar.md ':include')
 
-[kg](https://junxnone.github.io/sh/kg ':include :type=iframe width=100% height=800px')
+[kg](https://junxnone.github.io/kg?json=sh/kg.json ':include :type=iframe width=100% height=800px')
 
 
