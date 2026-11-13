@@ -1,1 +1,303 @@
-{"nodes": [{"id": "sh", "group": 0, "title": "\u751f\u6d3b\u5728\u4e0a\u6d77", "url": "https://junxnone.github.io/sh/#/", "visible": true, "expand": true, "childLinks": []}, {"id": "sh \u56fd\u5bb6\u804c\u4e1a\u8d44\u683c\u8bc1\u4e66", "group": 1, "title": "\u56fd\u5bb6\u804c\u4e1a\u8d44\u683c\u8bc1\u4e66", "url": "https://junxnone.github.io/sh/#/0015_\u56fd\u5bb6\u804c\u4e1a\u8d44\u683c\u8bc1\u4e66", "visible": true, "expand": true, "childLinks": []}, {"id": "sh \u6237\u53e3", "group": 1, "title": "\u4e0a\u6d77\u5e02\u6237\u53e3", "url": "https://junxnone.github.io/sh/#/0004_\u6237\u53e3", "visible": true, "expand": true, "childLinks": []}, {"id": "sh \u8f66", "group": 1, "title": "\u8f66", "url": "https://junxnone.github.io/sh/#/0014_\u8f66", "visible": true, "expand": true, "childLinks": []}, {"id": "sh \u793e\u4fdd", "group": 1, "title": "\u793e\u4fdd", "url": "https://junxnone.github.io/sh/#/0007_\u793e\u4fdd", "visible": true, "expand": true, "childLinks": []}, {"id": "sh \u5c45\u4f4f\u8bc1", "group": 1, "title": "\u5c45\u4f4f\u8bc1", "url": "https://junxnone.github.io/sh/#/0003_\u5c45\u4f4f\u8bc1", "visible": true, "expand": true, "childLinks": []}, {"id": "sh \u4e70\u623f", "group": 1, "title": "\u4e70\u623f", "url": "https://junxnone.github.io/sh/#/0005_\u4e70\u623f", "visible": true, "expand": true, "childLinks": []}, {"id": "sh \u6559\u80b2", "group": 1, "title": "\u6559\u80b2", "url": "https://junxnone.github.io/sh/#/0006_\u6559\u80b2", "visible": true, "expand": true, "childLinks": []}, {"id": "sh \u793e\u4fdd \u5de5\u4f24\u4fdd\u9669", "group": 2, "title": "\u5de5\u4f24\u4fdd\u9669", "url": "https://junxnone.github.io/sh/#/0012_\u793e\u4fdd_\u5de5\u4f24\u4fdd\u9669", "visible": true, "expand": true, "childLinks": []}, {"id": "sh \u793e\u4fdd \u533b\u7597\u4fdd\u9669", "group": 2, "title": "\u533b\u7597\u4fdd\u9669", "url": "https://junxnone.github.io/sh/#/0009_\u793e\u4fdd_\u533b\u7597\u4fdd\u9669", "visible": true, "expand": true, "childLinks": []}, {"id": "sh \u56fd\u5bb6\u804c\u4e1a\u8d44\u683c\u8bc1\u4e66 \u4e00\u7ea7", "group": 2, "title": "\u56fd\u5bb6\u4e00\u7ea7\u804c\u4e1a\u8d44\u683c\u8bc1\u4e66", "url": "https://junxnone.github.io/sh/#/0016_\u56fd\u5bb6\u804c\u4e1a\u8d44\u683c\u8bc1\u4e66_\u4e00\u7ea7", "visible": true, "expand": true, "childLinks": []}, {"id": "sh \u793e\u4fdd \u751f\u80b2\u4fdd\u9669", "group": 2, "title": "\u751f\u80b2\u4fdd\u9669", "url": "https://junxnone.github.io/sh/#/0010_\u793e\u4fdd_\u751f\u80b2\u4fdd\u9669", "visible": true, "expand": true, "childLinks": []}, {"id": "sh \u793e\u4fdd \u5931\u4e1a\u4fdd\u9669", "group": 2, "title": "\u5931\u4e1a\u4fdd\u9669", "url": "https://junxnone.github.io/sh/#/0011_\u793e\u4fdd_\u5931\u4e1a\u4fdd\u9669", "visible": true, "expand": true, "childLinks": []}, {"id": "sh \u793e\u4fdd \u4f4f\u623f\u516c\u79ef\u91d1", "group": 2, "title": "\u4f4f\u623f\u516c\u79ef\u91d1", "url": "https://junxnone.github.io/sh/#/0013_\u793e\u4fdd_\u4f4f\u623f\u516c\u79ef\u91d1", "visible": true, "expand": true, "childLinks": []}, {"id": "sh \u56fd\u5bb6\u804c\u4e1a\u8d44\u683c\u8bc1\u4e66 \u8ba1\u7b97\u673a", "group": 2, "title": "\u8ba1\u7b97\u673a\u8f6f\u4ef6\u8d44\u683c\u8003\u8bd5", "url": "https://junxnone.github.io/sh/#/0018_\u56fd\u5bb6\u804c\u4e1a\u8d44\u683c\u8bc1\u4e66_\u8ba1\u7b97\u673a", "visible": true, "expand": true, "childLinks": []}, {"id": "sh \u6237\u53e3 \u76ca\u5904", "group": 2, "title": "\u4e0a\u6d77\u6237\u53e3\u76ca\u5904", "url": "https://junxnone.github.io/sh/#/0019_\u6237\u53e3_\u76ca\u5904", "visible": true, "expand": true, "childLinks": []}, {"id": "sh \u793e\u4fdd \u517b\u8001\u4fdd\u9669", "group": 2, "title": "\u517b\u8001\u4fdd\u9669", "url": "https://junxnone.github.io/sh/#/0008_\u793e\u4fdd_\u517b\u8001\u4fdd\u9669", "visible": true, "expand": true, "childLinks": []}, {"id": "sh \u56fd\u5bb6\u804c\u4e1a\u8d44\u683c\u8bc1\u4e66 \u4e8c\u7ea7", "group": 2, "title": "\u56fd\u5bb6\u4e8c\u7ea7\u804c\u4e1a\u8d44\u683c\u8bc1\u4e66", "url": "https://junxnone.github.io/sh/#/0017_\u56fd\u5bb6\u804c\u4e1a\u8d44\u683c\u8bc1\u4e66_\u4e8c\u7ea7", "visible": true, "expand": true, "childLinks": []}, {"id": "sh \u8f66 \u8f66\u724c", "group": 2, "title": "\u8f66\u724c", "url": "https://junxnone.github.io/sh/#/0020_\u8f66_\u8f66\u724c", "visible": true, "expand": true, "childLinks": []}], "links": [{"source": "sh", "target": "sh \u56fd\u5bb6\u804c\u4e1a\u8d44\u683c\u8bc1\u4e66", "value": 1, "visible": true, "expand": true}, {"source": "sh", "target": "sh \u6237\u53e3", "value": 1, "visible": true, "expand": true}, {"source": "sh", "target": "sh \u8f66", "value": 1, "visible": true, "expand": true}, {"source": "sh", "target": "sh \u793e\u4fdd", "value": 1, "visible": true, "expand": true}, {"source": "sh", "target": "sh \u5c45\u4f4f\u8bc1", "value": 1, "visible": true, "expand": true}, {"source": "sh", "target": "sh \u4e70\u623f", "value": 1, "visible": true, "expand": true}, {"source": "sh", "target": "sh \u6559\u80b2", "value": 1, "visible": true, "expand": true}, {"source": "sh \u56fd\u5bb6\u804c\u4e1a\u8d44\u683c\u8bc1\u4e66", "target": "sh \u56fd\u5bb6\u804c\u4e1a\u8d44\u683c\u8bc1\u4e66 \u4e00\u7ea7", "value": 2, "visible": true, "expand": true}, {"source": "sh \u56fd\u5bb6\u804c\u4e1a\u8d44\u683c\u8bc1\u4e66", "target": "sh \u56fd\u5bb6\u804c\u4e1a\u8d44\u683c\u8bc1\u4e66 \u8ba1\u7b97\u673a", "value": 2, "visible": true, "expand": true}, {"source": "sh \u56fd\u5bb6\u804c\u4e1a\u8d44\u683c\u8bc1\u4e66", "target": "sh \u56fd\u5bb6\u804c\u4e1a\u8d44\u683c\u8bc1\u4e66 \u4e8c\u7ea7", "value": 2, "visible": true, "expand": true}, {"source": "sh \u6237\u53e3", "target": "sh \u6237\u53e3 \u76ca\u5904", "value": 2, "visible": true, "expand": true}, {"source": "sh \u8f66", "target": "sh \u8f66 \u8f66\u724c", "value": 2, "visible": true, "expand": true}, {"source": "sh \u793e\u4fdd", "target": "sh \u793e\u4fdd \u5de5\u4f24\u4fdd\u9669", "value": 2, "visible": true, "expand": true}, {"source": "sh \u793e\u4fdd", "target": "sh \u793e\u4fdd \u533b\u7597\u4fdd\u9669", "value": 2, "visible": true, "expand": true}, {"source": "sh \u793e\u4fdd", "target": "sh \u793e\u4fdd \u751f\u80b2\u4fdd\u9669", "value": 2, "visible": true, "expand": true}, {"source": "sh \u793e\u4fdd", "target": "sh \u793e\u4fdd \u5931\u4e1a\u4fdd\u9669", "value": 2, "visible": true, "expand": true}, {"source": "sh \u793e\u4fdd", "target": "sh \u793e\u4fdd \u4f4f\u623f\u516c\u79ef\u91d1", "value": 2, "visible": true, "expand": true}, {"source": "sh \u793e\u4fdd", "target": "sh \u793e\u4fdd \u517b\u8001\u4fdd\u9669", "value": 2, "visible": true, "expand": true}]}
+{
+  "nodes": [
+    {
+      "id": "sh",
+      "group": 0,
+      "title": "生活在上海",
+      "url": "https://junxnone.github.io/sh/#/",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "sh 居住证",
+      "group": 1,
+      "title": "居住证",
+      "url": "https://junxnone.github.io/sh/#/0003_居住证",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "sh 户口",
+      "group": 1,
+      "title": "上海市户口",
+      "url": "https://junxnone.github.io/sh/#/0004_户口",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "sh 买房",
+      "group": 1,
+      "title": "买房",
+      "url": "https://junxnone.github.io/sh/#/0005_买房",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "sh 教育",
+      "group": 1,
+      "title": "教育",
+      "url": "https://junxnone.github.io/sh/#/0006_教育",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "sh 社保",
+      "group": 1,
+      "title": "社保",
+      "url": "https://junxnone.github.io/sh/#/0007_社保",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "sh 车",
+      "group": 1,
+      "title": "车",
+      "url": "https://junxnone.github.io/sh/#/0014_车",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "sh 国家职业资格证书",
+      "group": 1,
+      "title": "国家职业资格证书",
+      "url": "https://junxnone.github.io/sh/#/0015_国家职业资格证书",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "sh 社保 养老保险",
+      "group": 2,
+      "title": "养老保险",
+      "url": "https://junxnone.github.io/sh/#/0008_社保_养老保险",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "sh 社保 医疗保险",
+      "group": 2,
+      "title": "医疗保险",
+      "url": "https://junxnone.github.io/sh/#/0009_社保_医疗保险",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "sh 社保 生育保险",
+      "group": 2,
+      "title": "生育保险",
+      "url": "https://junxnone.github.io/sh/#/0010_社保_生育保险",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "sh 社保 失业保险",
+      "group": 2,
+      "title": "失业保险",
+      "url": "https://junxnone.github.io/sh/#/0011_社保_失业保险",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "sh 社保 工伤保险",
+      "group": 2,
+      "title": "工伤保险",
+      "url": "https://junxnone.github.io/sh/#/0012_社保_工伤保险",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "sh 社保 住房公积金",
+      "group": 2,
+      "title": "住房公积金",
+      "url": "https://junxnone.github.io/sh/#/0013_社保_住房公积金",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "sh 国家职业资格证书 一级",
+      "group": 2,
+      "title": "国家一级职业资格证书",
+      "url": "https://junxnone.github.io/sh/#/0016_国家职业资格证书_一级",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "sh 国家职业资格证书 二级",
+      "group": 2,
+      "title": "国家二级职业资格证书",
+      "url": "https://junxnone.github.io/sh/#/0017_国家职业资格证书_二级",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "sh 国家职业资格证书 计算机",
+      "group": 2,
+      "title": "计算机软件资格考试",
+      "url": "https://junxnone.github.io/sh/#/0018_国家职业资格证书_计算机",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "sh 户口 益处",
+      "group": 2,
+      "title": "上海户口益处",
+      "url": "https://junxnone.github.io/sh/#/0019_户口_益处",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "sh 车 车牌",
+      "group": 2,
+      "title": "车牌",
+      "url": "https://junxnone.github.io/sh/#/0020_车_车牌",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    }
+  ],
+  "links": [
+    {
+      "source": "sh",
+      "target": "sh 居住证",
+      "value": 1,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "sh",
+      "target": "sh 户口",
+      "value": 1,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "sh",
+      "target": "sh 买房",
+      "value": 1,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "sh",
+      "target": "sh 教育",
+      "value": 1,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "sh",
+      "target": "sh 社保",
+      "value": 1,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "sh",
+      "target": "sh 车",
+      "value": 1,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "sh",
+      "target": "sh 国家职业资格证书",
+      "value": 1,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "sh 户口",
+      "target": "sh 户口 益处",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "sh 社保",
+      "target": "sh 社保 养老保险",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "sh 社保",
+      "target": "sh 社保 医疗保险",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "sh 社保",
+      "target": "sh 社保 生育保险",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "sh 社保",
+      "target": "sh 社保 失业保险",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "sh 社保",
+      "target": "sh 社保 工伤保险",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "sh 社保",
+      "target": "sh 社保 住房公积金",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "sh 车",
+      "target": "sh 车 车牌",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "sh 国家职业资格证书",
+      "target": "sh 国家职业资格证书 一级",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "sh 国家职业资格证书",
+      "target": "sh 国家职业资格证书 二级",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "sh 国家职业资格证书",
+      "target": "sh 国家职业资格证书 计算机",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    }
+  ]
+}
